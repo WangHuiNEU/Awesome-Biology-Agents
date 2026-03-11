@@ -47,7 +47,7 @@ Our goal is to build a **useful, accurate, and up-to-date resource** for researc
   - [3.1 General Healthcare and Medical LLM Reviews](#31-general-healthcare-and-medical-llm-reviews)
   - [3.2 Biology, Bioinformatics, and Biomedical Discovery Reviews](#32-biology-bioinformatics-and-biomedical-discovery-reviews)
   - [3.3 Agents in Medicine, Oncology, Chemistry, and Scientific Discovery](#33-agents-in-medicine-oncology-chemistry-and-scientific-discovery)
- - [Related RNA Resources](#Related RNA Resources)
+ - [4 Related RNA Resources](#4-Related RNA Resources)
 
 ---
 
@@ -313,7 +313,7 @@ This section is most relevant if your interest is:
 
 
 
-## Related RNA Resources
+## 4 Related RNA Resources
 
 If you work on **RNA biology**, **RNA language models**, or **RNA-centric foundation models**, you may also find the following resources useful.
 
