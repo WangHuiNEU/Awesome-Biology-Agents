@@ -1,5 +1,7 @@
 # Awesome Biology Agents, Benchmarks, and Reviews
 
+<img src="assets/bg.png" style="zoom: 67%;" />
+
 A curated list of papers on **LLM-based agents in biology and medicine**, organized by **research domain** and then by **timeline**.
 
 This list focuses on three major categories:
@@ -8,15 +10,27 @@ This list focuses on three major categories:
 - **Benchmarks**: evaluation datasets and benchmarks for biological/biomedical agents or reasoning systems
 - **Reviews**: surveys, perspectives, and commentaries on LLMs and agentic AI in biology, medicine, and healthcare
 
+
+
+## Contributing 
+
+This repository will be **maintained over the long term** and continuously updated as new work on **LLM-based agents, benchmarks, and reviews in biology and medicine** becomes available.
+
+We warmly welcome contributions from the community, including:
+
+- newly published papers
+- benchmarks and datasets
+- survey and review articles
+- missing links, metadata, or categorization fixes
+- suggestions for improving the organization of this collection
+
+If you would like to contribute, please feel free to **open an issue** or **submit a pull request**.
+
+Our goal is to build a **useful, accurate, and up-to-date resource** for researchers working on biological and biomedical agents.
+
 ---
 
-
-
-
-
----
-
-## Contents
+## Contents 🤖
 
 - [1. Agents](#1-agents)
   - [1.1 Bioinformatics and Omics Analysis Agents](#11-bioinformatics-and-omics-analysis-agents)
