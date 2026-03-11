@@ -1,7 +1,5 @@
 # Awesome Biology Agents, Benchmarks, and Reviews
 
-
-
 A curated list of papers on **LLM-based agents in biology and medicine**, organized by **research domain** and then by **timeline**.
 
 This list focuses on three major categories:
@@ -9,6 +7,8 @@ This list focuses on three major categories:
 - **Agents**: LLM or multi-agent systems applied to biology, biomedicine, bioinformatics, chemistry, and healthcare workflows
 - **Benchmarks**: evaluation datasets and benchmarks for biological/biomedical agents or reasoning systems
 - **Reviews**: surveys, perspectives, and commentaries on LLMs and agentic AI in biology, medicine, and healthcare
+
+---
 
 
 
@@ -34,7 +34,10 @@ This list focuses on three major categories:
   - [3.2 Biology, Bioinformatics, and Biomedical Discovery Reviews](#32-biology-bioinformatics-and-biomedical-discovery-reviews)
   - [3.3 Agents in Medicine, Oncology, Chemistry, and Scientific Discovery](#33-agents-in-medicine-oncology-chemistry-and-scientific-discovery)
  - [Related RNA Resources](#Related RNA Resources)
+
 ---
+
+
 
 # 1. Agents
 
@@ -87,7 +90,6 @@ Agentic systems for protein engineering, RNA understanding, genetic perturbation
 - **[2023.11 | Preprint]** **Validation of an LLM-based Multi-Agent Framework for Protein Engineering in Dry Lab and Wet Lab**
 - **[2024.03 | Preprint]** **BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments**
 - **[2024.04 | Preprint]** **CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments**
-- **[2024.10 | Preprint]** **RNA-GPT: Multimodal Generative System for RNA Sequence Understanding**
 - **[2024.11 | Preprint]** **The Virtual Lab: AI Agents Design New SARS-CoV-2 Nanobodies with Experimental Validation**
 
 ### Notes
@@ -314,7 +316,7 @@ To the best of our knowledge, it is currently the **largest RNA benchmark datase
 
 #### 🧬 Decoding the RNA interactome by UltraGen
 
-**Preprint:** https://europepmc.org/article/ppr/ppr878242
+**Preprint:** https://europepmc.org/article/ppr/ppr878242,  *UndeReview*
 
 We introduce **UltraGen**, an RNA language model designed to capture **RNA binding properties**. To the best of our knowledge, UltraGen is the **first language model pretrained on in vitro synthesized RNA**.  Through fine-grained self-learning, UltraGen identifies RNA aptamers across a wide spectrum of targets, including: small molecules, proteins and multi(cellular) molecules. It also supports broader RNA biology applications, including: tissue-specificity recognition for millions of RNA species across **22 human organs** using **3'-UTR sequences**, prediction of the tropism of **human-pathogenic RNA viruses** and characterization of **SARS-CoV-2 replicase RNA binding** at **single-base resolution**.
 
